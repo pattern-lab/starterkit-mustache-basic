@@ -1,0 +1,23 @@
+{
+  "name": "starterkit-mustache-basic",
+  "version": "1.0.0",
+  "description": "A basic Mustache-based Starterkit for Pattern Lab.",
+  "main": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pattern-lab/starterkit-mustache-basic.git"
+  },
+  "keywords": [
+    "Pattern Lab",
+    "Atomic Design",
+    "Mustache",
+    "Basic",
+    "Starterkit"
+  ],
+  "author": "Brad Frost",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pattern-lab/starterkit-mustache-basic/issues"
+  },
+  "homepage": "https://github.com/pattern-lab/starterkit-mustache-basic#readme"
+}

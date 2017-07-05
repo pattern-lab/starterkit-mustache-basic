@@ -1,0 +1,33 @@
+{
+  "name":             "pattern-lab/starterkit-mustache-basic",
+  "description":      "A basic Mustache-based StarterKit for Pattern Lab.",
+  "keywords":         ["mustache", "pattern lab", "starterkit", "basic"],
+  "homepage":         "http://patternlab.io",
+  "license":          "MIT",
+  "type":             "patternlab-starterkit",
+  "authors": [
+    {
+      "name":         "Brad Frost",
+      "homepage":     "http://bradfrost.com",
+      "role":         "Creator"
+    }
+  ],
+  "support": {
+    "issues":         "https://github.com/pattern-lab/starterkit-mustache-basic/issues",
+    "wiki":           "http://patternlab.io/docs/",
+    "source":         "https://github.com/pattern-lab/starterkit-mustache-basic/releases"
+  },
+  "require": {
+    "pattern-lab/core": "^2.0.0",
+    "pattern-lab/patternengine-mustache": "^2.0.0"
+  },
+  "extra": {
+    "patternlab": {
+      "dist": {
+        "sourceDir": [
+          { "*": "*" }
+        ]
+      }
+    }
+  }
+}
