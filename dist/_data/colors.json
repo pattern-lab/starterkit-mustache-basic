@@ -1,0 +1,28 @@
+{
+	"brandColors" : [
+		{
+			"colorHex" : "#808080",
+			"colorName" : "Brand Gray",
+			"variable" : "$color-brand-gray"
+		}
+	],
+	"neutralColors" : [
+		{
+			"colorHex" : "#ffffff",
+			"colorName" : "White",
+			"variable" : "$color-white"
+		},
+		{
+			"colorHex" : "#000000",
+			"colorName" : "Black",
+			"variable" : "$color-black"
+		}
+	],
+	"utilityColors" : [
+		{
+			"colorHex" : "#b12a0b",
+			"colorName" : "Error",
+			"variable" : "$color-utility-error"
+		}
+	]
+}

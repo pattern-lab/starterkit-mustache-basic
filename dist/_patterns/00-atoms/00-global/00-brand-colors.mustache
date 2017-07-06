@@ -1,16 +1,14 @@
 <ul class="sg-colors">
-		<li>
-		<span class="sg-swatch" style="background: #5C832F;"></span>
-		<span class="sg-label">
-			$color-brand-green <br />
-			#5C832F
-		</span>
-	</li>
+
+	{{# brandColors }}
 	<li>
-		<span class="sg-swatch" style="background: #3b4a20;"></span>
+		<span class="sg-swatch" style="background: {{ colorHex }};"></span>
 		<span class="sg-label">
-			$color-brand-green-dark <br />
-			#3b4a20
+			{{ colorName }} <br />
+			{{ variable }} <br />
+			{{ colorHex }}
 		</span>
 	</li>
-</ul>
+	{{/ brandColors }}
+
+</ul><!--end sg-colors-->

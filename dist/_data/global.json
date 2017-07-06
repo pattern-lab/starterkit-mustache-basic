@@ -1,0 +1,20 @@
+{
+	"primaryNav" : [
+		{
+			"label": "Item 1"
+		},
+		{
+			"label": "Item 2"
+		},
+		{
+			"label": "Item 3"
+		},
+		{
+			"label": "Item 4"
+		}
+	],
+	"menuButton" : {
+		"styleModifier" : "c-header__nav-btn js-header-nav-btn",
+		"buttonText" : "Menu"
+	}
+}
